@@ -11,3 +11,6 @@ PLUGINS:
   mood:
     priority: 0
     persistent: False
+  strobe:
+    priority: 0
+    persistent: False

@@ -5,6 +5,7 @@ def main():
     manager = PluginManager()
     manager.load_plugin("mood")
     manager.load_plugin("epilepsy")
+    manager.load_plugin("strobe")
     manager.start()
 
 
